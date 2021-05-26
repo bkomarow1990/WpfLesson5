@@ -1,0 +1,15 @@
+C:\Users\Gnidez\source\repos\WpfLesson5\Wpf_Lessn5_Classwork\bin\Debug\Wpf_Lessn5_Classwork.exe.config
+C:\Users\Gnidez\source\repos\WpfLesson5\Wpf_Lessn5_Classwork\bin\Debug\Wpf_Lessn5_Classwork.exe
+C:\Users\Gnidez\source\repos\WpfLesson5\Wpf_Lessn5_Classwork\bin\Debug\Wpf_Lessn5_Classwork.pdb
+C:\Users\Gnidez\source\repos\WpfLesson5\Wpf_Lessn5_Classwork\obj\Debug\Wpf_Lessn5_Classwork.csprojAssemblyReference.cache
+C:\Users\Gnidez\source\repos\WpfLesson5\Wpf_Lessn5_Classwork\obj\Debug\MainWindow.g.cs
+C:\Users\Gnidez\source\repos\WpfLesson5\Wpf_Lessn5_Classwork\obj\Debug\App.g.cs
+C:\Users\Gnidez\source\repos\WpfLesson5\Wpf_Lessn5_Classwork\obj\Debug\Wpf_Lessn5_Classwork_MarkupCompile.cache
+C:\Users\Gnidez\source\repos\WpfLesson5\Wpf_Lessn5_Classwork\obj\Debug\Wpf_Lessn5_Classwork_MarkupCompile.lref
+C:\Users\Gnidez\source\repos\WpfLesson5\Wpf_Lessn5_Classwork\obj\Debug\MainWindow.baml
+C:\Users\Gnidez\source\repos\WpfLesson5\Wpf_Lessn5_Classwork\obj\Debug\Wpf_Lessn5_Classwork.g.resources
+C:\Users\Gnidez\source\repos\WpfLesson5\Wpf_Lessn5_Classwork\obj\Debug\Wpf_Lessn5_Classwork.Properties.Resources.resources
+C:\Users\Gnidez\source\repos\WpfLesson5\Wpf_Lessn5_Classwork\obj\Debug\Wpf_Lessn5_Classwork.csproj.GenerateResource.cache
+C:\Users\Gnidez\source\repos\WpfLesson5\Wpf_Lessn5_Classwork\obj\Debug\Wpf_Lessn5_Classwork.csproj.CoreCompileInputs.cache
+C:\Users\Gnidez\source\repos\WpfLesson5\Wpf_Lessn5_Classwork\obj\Debug\Wpf_Lessn5_Classwork.exe
+C:\Users\Gnidez\source\repos\WpfLesson5\Wpf_Lessn5_Classwork\obj\Debug\Wpf_Lessn5_Classwork.pdb
